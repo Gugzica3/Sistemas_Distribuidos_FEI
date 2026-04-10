@@ -1,0 +1,195 @@
+networks:
+  bbs-net:
+    driver: bridge
+
+# ─── Shared server defaults ────────────────────────────────────────────────────
+x-python-server: &python-server
+  build:
+    context: ./python
+    dockerfile: Dockerfile
+  environment:
+    MODE: server
+    BIND_ADDR: "tcp://*:5555"
+  networks:
+    - bbs-net
+  restart: on-failure
+
+x-java-server: &java-server
+  build:
+    context: ./java
+    dockerfile: Dockerfile
+  environment:
+    MODE: server
+    BIND_ADDR: "tcp://*:5555"
+  networks:
+    - bbs-net
+  restart: on-failure
+
+# ─── Shared client defaults ────────────────────────────────────────────────────
+x-python-client: &python-client
+  build:
+    context: ./python
+    dockerfile: Dockerfile
+  environment:
+    MODE: client
+    MAX_RETRIES: "8"
+    RETRY_DELAY: "2.0"
+    RECV_TIMEOUT: "10000"
+    STARTUP_DELAY: "5.0"
+  networks:
+    - bbs-net
+  restart: "no"
+
+x-java-client: &java-client
+  build:
+    context: ./java
+    dockerfile: Dockerfile
+  environment:
+    MODE: client
+    MAX_RETRIES: "8"
+    RETRY_DELAY_MS: "2000"
+    RECV_TIMEOUT: "10000"
+    STARTUP_DELAY_MS: "5000"
+  networks:
+    - bbs-net
+  restart: "no"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+services:
+
+  # ─── Python Servers (Integrante 1) ──────────────────────────────────────────
+  python-server-1:
+    <<: *python-server
+    container_name: python-server-1
+    environment:
+      MODE: server
+      BIND_ADDR: "tcp://*:5555"
+      SERVER_NAME: python-server-1
+      DATA_DIR: /data
+    volumes:
+      - ./data/python-server-1:/data
+
+  python-server-2:
+    <<: *python-server
+    container_name: python-server-2
+    environment:
+      MODE: server
+      BIND_ADDR: "tcp://*:5555"
+      SERVER_NAME: python-server-2
+      DATA_DIR: /data
+    volumes:
+      - ./data/python-server-2:/data
+
+  # ─── Java Servers (Integrante 2) ────────────────────────────────────────────
+  java-server-1:
+    <<: *java-server
+    container_name: java-server-1
+    environment:
+      MODE: server
+      BIND_ADDR: "tcp://*:5555"
+      SERVER_NAME: java-server-1
+      DATA_DIR: /data
+    volumes:
+      - ./data/java-server-1:/data
+
+  java-server-2:
+    <<: *java-server
+    container_name: java-server-2
+    environment:
+      MODE: server
+      BIND_ADDR: "tcp://*:5555"
+      SERVER_NAME: java-server-2
+      DATA_DIR: /data
+    volumes:
+      - ./data/java-server-2:/data
+
+  # ─── Python Bots → Python Servers ───────────────────────────────────────────
+  python-bot-1:
+    <<: *python-client
+    container_name: python-bot-1
+    environment:
+      MODE: client
+      BOT_NAME: python-bot-1
+      SERVER_ADDRS: "tcp://python-server-1:5555"
+      STARTUP_DELAY: "5.0"
+      MAX_RETRIES: "8"
+      RETRY_DELAY: "2.0"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - python-server-1
+
+  python-bot-2:
+    <<: *python-client
+    container_name: python-bot-2
+    environment:
+      MODE: client
+      BOT_NAME: python-bot-2
+      SERVER_ADDRS: "tcp://python-server-2:5555"
+      STARTUP_DELAY: "5.0"
+      MAX_RETRIES: "8"
+      RETRY_DELAY: "2.0"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - python-server-2
+
+  # ─── Java Bots → Java Servers ────────────────────────────────────────────────
+  java-bot-1:
+    <<: *java-client
+    container_name: java-bot-1
+    environment:
+      MODE: client
+      BOT_NAME: java-bot-1
+      SERVER_ADDRS: "tcp://java-server-1:5555"
+      STARTUP_DELAY_MS: "5000"
+      MAX_RETRIES: "8"
+      RETRY_DELAY_MS: "2000"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - java-server-1
+
+  java-bot-2:
+    <<: *java-client
+    container_name: java-bot-2
+    environment:
+      MODE: client
+      BOT_NAME: java-bot-2
+      SERVER_ADDRS: "tcp://java-server-2:5555"
+      STARTUP_DELAY_MS: "5000"
+      MAX_RETRIES: "8"
+      RETRY_DELAY_MS: "2000"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - java-server-2
+
+  # ─── Cross-language bots (interoperabilidade entre Python ↔ Java) ────────────
+  # Python bot → Java servers  (prova que cliente Python fala com servidor Java)
+  python-bot-cross-1:
+    <<: *python-client
+    container_name: python-bot-cross-1
+    environment:
+      MODE: client
+      BOT_NAME: python-bot-cross-1
+      SERVER_ADDRS: "tcp://java-server-1:5555,tcp://java-server-2:5555"
+      STARTUP_DELAY: "6.0"
+      MAX_RETRIES: "8"
+      RETRY_DELAY: "2.0"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - java-server-1
+      - java-server-2
+
+  # Java bot → Python servers  (prova que cliente Java fala com servidor Python)
+  java-bot-cross-1:
+    <<: *java-client
+    container_name: java-bot-cross-1
+    environment:
+      MODE: client
+      BOT_NAME: java-bot-cross-1
+      SERVER_ADDRS: "tcp://python-server-1:5555,tcp://python-server-2:5555"
+      STARTUP_DELAY_MS: "6000"
+      MAX_RETRIES: "8"
+      RETRY_DELAY_MS: "2000"
+      RECV_TIMEOUT: "10000"
+    depends_on:
+      - python-server-1
+      - python-server-2
