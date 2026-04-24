@@ -1,0 +1,2909 @@
+[
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031802.865575,
+    "logical_clock": 15,
+    "channel": "canal-python-bot-1-9251",
+    "message": "c3xveoigq80 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031803.8745449,
+    "logical_clock": 18,
+    "channel": "canal-python-bot-1-9251",
+    "message": "mj019daa2 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031804.8825533,
+    "logical_clock": 21,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8shbowrg2oov3 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031805.1608152,
+    "logical_clock": 34,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "da7kmiu8kvdum3 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031805.8869293,
+    "logical_clock": 36,
+    "channel": "canal-python-bot-1-9251",
+    "message": "u2zt00fetf1fzyxj #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031806.1706874,
+    "logical_clock": 38,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ytbxz42n #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031806.8939276,
+    "logical_clock": 40,
+    "channel": "canal-python-bot-1-9251",
+    "message": "pqu9lof1q3ix #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031807.180873,
+    "logical_clock": 42,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "c2o3fjehh5bi5t #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031807.9020143,
+    "logical_clock": 44,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5z59hg78uoy #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031808.1896868,
+    "logical_clock": 46,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ua7hd13hloujq9p5 #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031808.9088807,
+    "logical_clock": 50,
+    "channel": "canal-python-bot-1-9251",
+    "message": "z0jgi82r #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031809.1986217,
+    "logical_clock": 52,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "xuo9lef5vns6 #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031810.1464088,
+    "logical_clock": 54,
+    "channel": "canal-python-bot-1-9251",
+    "message": "zk0494u7pp1jz #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031810.6244583,
+    "logical_clock": 56,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "mekrs1bofp2f08 #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031811.153927,
+    "logical_clock": 58,
+    "channel": "canal-python-bot-1-9251",
+    "message": "w8ox1e8vdlnt9i #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031811.6380415,
+    "logical_clock": 60,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0pa6cp40mffws47x #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031812.1613665,
+    "logical_clock": 62,
+    "channel": "canal-python-bot-1-9251",
+    "message": "9rztab06kmhz55 #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031812.6473584,
+    "logical_clock": 64,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "d7zcmv57 #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031813.6556592,
+    "logical_clock": 67,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "4taziwox07kjdso #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031814.664752,
+    "logical_clock": 70,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "77jm0iv3 #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031815.1690238,
+    "logical_clock": 76,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5tad4bfm0td0 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031816.1775522,
+    "logical_clock": 79,
+    "channel": "canal-python-bot-1-9251",
+    "message": "08kyr7zz2wibecje #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031817.1854737,
+    "logical_clock": 82,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8wopogzqo40 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031817.6750362,
+    "logical_clock": 86,
+    "channel": "canal-python-bot-1-9251",
+    "message": "1lcdiwndmkz80 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031819.0721061,
+    "logical_clock": 88,
+    "channel": "canal-python-bot-1-9251",
+    "message": "958e17h25gpetgj #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031820.0747216,
+    "logical_clock": 90,
+    "channel": "canal-python-bot-1-9251",
+    "message": "i2agre9ht1xkbl #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031820.085131,
+    "logical_clock": 92,
+    "channel": "canal-python-bot-1-9251",
+    "message": "4l2rrzovnf #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031821.0839846,
+    "logical_clock": 94,
+    "channel": "canal-python-bot-1-9251",
+    "message": "j8bl9z1x #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031821.0951157,
+    "logical_clock": 98,
+    "channel": "canal-python-bot-1-9251",
+    "message": "gtga123sc5o3e #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031822.0931551,
+    "logical_clock": 100,
+    "channel": "canal-python-bot-1-9251",
+    "message": "12fcon2yw #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031822.1044161,
+    "logical_clock": 102,
+    "channel": "canal-python-bot-1-9251",
+    "message": "augbf98u1q9u9wtr #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031823.1039379,
+    "logical_clock": 104,
+    "channel": "canal-python-bot-1-9251",
+    "message": "q7x8r2gb5u7a31s #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031823.117663,
+    "logical_clock": 106,
+    "channel": "canal-python-bot-1-9251",
+    "message": "g3pg1grya8 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031824.1164827,
+    "logical_clock": 108,
+    "channel": "canal-python-bot-1-9251",
+    "message": "92arg3yawlt3t #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031824.1311755,
+    "logical_clock": 110,
+    "channel": "canal-python-bot-1-9251",
+    "message": "n2sl41p2n8 #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031825.1281803,
+    "logical_clock": 112,
+    "channel": "canal-python-bot-1-9251",
+    "message": "fdzql4c1o #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031825.139626,
+    "logical_clock": 114,
+    "channel": "canal-python-bot-1-9251",
+    "message": "0rcotq0a4ez70ch1 #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031826.135348,
+    "logical_clock": 116,
+    "channel": "canal-python-bot-1-9251",
+    "message": "g75tg22e8j #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031827.1465929,
+    "logical_clock": 120,
+    "channel": "canal-python-bot-1-9251",
+    "message": "tjkqy24dv91xxp #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031828.1458879,
+    "logical_clock": 124,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "jkru0dulabji #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031828.1566412,
+    "logical_clock": 126,
+    "channel": "canal-python-bot-1-9251",
+    "message": "h538xm2xl78ee #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031829.152165,
+    "logical_clock": 128,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "gbufqe7iulur #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031830.1596262,
+    "logical_clock": 131,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "z0k1px1z6lzwek08 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031831.1670108,
+    "logical_clock": 134,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "j8f27fv8b2j2l #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031831.1761088,
+    "logical_clock": 136,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "23nnkaxk52b #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031832.1771295,
+    "logical_clock": 138,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "j6nia97kbq9g #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031832.1878264,
+    "logical_clock": 142,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "7tnhcmfj6s3qmn #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031833.187933,
+    "logical_clock": 144,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "u3e11pd03j #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031833.1977262,
+    "logical_clock": 146,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "6r93p9q364t53 #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031834.1963222,
+    "logical_clock": 148,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "1ps6gcovqmbqc #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031834.2073014,
+    "logical_clock": 150,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "mnvh0sasgjuo4jcf #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031835.205182,
+    "logical_clock": 152,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "9nxtc0sxn6 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031835.2155778,
+    "logical_clock": 154,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "4cfqf2ic6dbr7 #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031836.2141044,
+    "logical_clock": 156,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "odchsfwp6g #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031836.224617,
+    "logical_clock": 158,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "sq7a8wf5 #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031837.2230458,
+    "logical_clock": 160,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ouoqlslid #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031837.233807,
+    "logical_clock": 164,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "yvfd24l8gg5 #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031838.2428946,
+    "logical_clock": 167,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "xnwjolg99 #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031839.2510877,
+    "logical_clock": 170,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "y7loijchq31pi6 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031840.2324138,
+    "logical_clock": 174,
+    "channel": "canal-python-bot-1-9251",
+    "message": "f81tuc6sz9xc #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031840.2602923,
+    "logical_clock": 176,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "wlqj65zz #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031841.239782,
+    "logical_clock": 178,
+    "channel": "canal-python-bot-1-9251",
+    "message": "hbb2p762eh8 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031842.2474825,
+    "logical_clock": 181,
+    "channel": "canal-python-bot-1-9251",
+    "message": "wpcgm1o8z #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031843.2631438,
+    "logical_clock": 184,
+    "channel": "canal-python-bot-1-9251",
+    "message": "j9nd1z80 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031843.2735052,
+    "logical_clock": 189,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "93es75827 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031844.2726965,
+    "logical_clock": 191,
+    "channel": "canal-python-bot-1-9251",
+    "message": "zv5mpcxr #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031844.2834756,
+    "logical_clock": 193,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "gjbkeorts #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031845.2811272,
+    "logical_clock": 195,
+    "channel": "canal-python-bot-1-9251",
+    "message": "dydx1dhq #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031845.2927094,
+    "logical_clock": 197,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "1k7bvouciredc5zn #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031846.288794,
+    "logical_clock": 199,
+    "channel": "canal-python-bot-1-9251",
+    "message": "kyx9xmzrlx #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031846.3014278,
+    "logical_clock": 201,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "tbn2kt1boaou #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031847.2971897,
+    "logical_clock": 203,
+    "channel": "canal-python-bot-1-9251",
+    "message": "yt21q9db5qy0ji9 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031847.3114321,
+    "logical_clock": 205,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "cpxuuzf3cak #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031848.3057544,
+    "logical_clock": 207,
+    "channel": "canal-python-bot-1-9251",
+    "message": "50m9mbkputgvg1tk #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031848.4580684,
+    "logical_clock": 211,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ctgyb6gxokafucw #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031849.4579577,
+    "logical_clock": 213,
+    "channel": "canal-python-bot-1-9251",
+    "message": "kruula82i5n2r #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031849.4692876,
+    "logical_clock": 215,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "410olan05fgb5j #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031850.480937,
+    "logical_clock": 218,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "5nst9uekvae #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031851.4909732,
+    "logical_clock": 221,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "u3g92pf5mjdmss4x #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031852.4680796,
+    "logical_clock": 225,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "tr0w3amldr #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031852.498627,
+    "logical_clock": 227,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "k3vwffnodx #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031853.4750123,
+    "logical_clock": 229,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "npp0ivcr7uu5esa6 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031854.4844005,
+    "logical_clock": 232,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "d38xtf6b #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031855.4933972,
+    "logical_clock": 236,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0ubw67qk6ec9 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031855.5091982,
+    "logical_clock": 240,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ulo1glao #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031856.5053287,
+    "logical_clock": 242,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "x64c5ikc6o #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031856.5200827,
+    "logical_clock": 244,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0xuy2f5q4qd #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031857.5152838,
+    "logical_clock": 246,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0o1l6yn3 #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031857.5306628,
+    "logical_clock": 248,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "mctjme52 #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031858.5235202,
+    "logical_clock": 250,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "gq7unpbhwm #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031858.539971,
+    "logical_clock": 252,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ivvozrmncx #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031859.532737,
+    "logical_clock": 254,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "pyjzyxiqvk #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031859.549645,
+    "logical_clock": 258,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "po53pxjo #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031860.5436125,
+    "logical_clock": 260,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "sst88oj55ycpebv #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031860.5589807,
+    "logical_clock": 262,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "arbs74g8tlf #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031861.5530918,
+    "logical_clock": 264,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "r02a7vv2p4u8pbn #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031861.5815606,
+    "logical_clock": 266,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "czjznpz22jnxl6d #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031862.5933301,
+    "logical_clock": 269,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "4fes6rh1teppm #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031863.6038027,
+    "logical_clock": 272,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "73a73jsbt #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031864.5623488,
+    "logical_clock": 276,
+    "channel": "canal-python-bot-1-9251",
+    "message": "7h8kewq7jril #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031864.6127818,
+    "logical_clock": 278,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "whuluw8h #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031865.5723326,
+    "logical_clock": 282,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ajtn346i1t1t2 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031866.5830438,
+    "logical_clock": 285,
+    "channel": "canal-python-bot-1-9251",
+    "message": "6vwcmxdgt79p #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031867.5933971,
+    "logical_clock": 288,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5d05y1v7js5p #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031867.6275837,
+    "logical_clock": 292,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "bsfo4hl28ab #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031868.6046777,
+    "logical_clock": 294,
+    "channel": "canal-python-bot-1-9251",
+    "message": "xvlmkem0r #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031868.6389077,
+    "logical_clock": 296,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "qbb260sl7rboo4 #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031869.6148093,
+    "logical_clock": 298,
+    "channel": "canal-python-bot-1-9251",
+    "message": "egjjtu1h6dhocku #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031869.6502862,
+    "logical_clock": 300,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "aginu03n #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031870.6253731,
+    "logical_clock": 302,
+    "channel": "canal-python-bot-1-9251",
+    "message": "la4a7ge9jar #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031870.6599524,
+    "logical_clock": 306,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "x5sk3rq50v #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031871.6361747,
+    "logical_clock": 308,
+    "channel": "canal-python-bot-1-9251",
+    "message": "gcj6ovapw1 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031871.6712646,
+    "logical_clock": 310,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "suluqdiyzl4nllt #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031872.6459937,
+    "logical_clock": 312,
+    "channel": "canal-python-bot-1-9251",
+    "message": "45qqz8afcezmejy2 #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031872.6813912,
+    "logical_clock": 314,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "loz3cp7psibl #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031873.6559715,
+    "logical_clock": 316,
+    "channel": "canal-python-bot-1-9251",
+    "message": "dyei8hb1 #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031873.6912513,
+    "logical_clock": 318,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "dq32wbp0vp2ast #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031874.7027593,
+    "logical_clock": 321,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "xv672w7vf #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031875.7145052,
+    "logical_clock": 324,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "swf27lqeymjz5n12 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031876.6674912,
+    "logical_clock": 329,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ooctrhslelx35u #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031876.724808,
+    "logical_clock": 331,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "uhm81a75u8o #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031877.6777186,
+    "logical_clock": 333,
+    "channel": "canal-python-bot-1-9251",
+    "message": "1hk4tf4gq0nmjcq #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031878.687407,
+    "logical_clock": 336,
+    "channel": "canal-python-bot-1-9251",
+    "message": "s0gud35iwkro4l6 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031879.6967585,
+    "logical_clock": 339,
+    "channel": "canal-python-bot-1-9251",
+    "message": "qbasqht0izce1 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031879.7382941,
+    "logical_clock": 343,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "7rcagz6qux15r17a #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031880.7070618,
+    "logical_clock": 345,
+    "channel": "canal-python-bot-1-9251",
+    "message": "swnh2ucg3vdmzllm #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031880.7482681,
+    "logical_clock": 347,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0qnx7c8nbrl #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031881.7181733,
+    "logical_clock": 349,
+    "channel": "canal-python-bot-1-9251",
+    "message": "x2nv58hdgyz3ic #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031881.7584293,
+    "logical_clock": 353,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "j9zllwvn #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031882.7282743,
+    "logical_clock": 355,
+    "channel": "canal-python-bot-1-9251",
+    "message": "uetir6nv2az #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031882.769957,
+    "logical_clock": 357,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "lgp8hz23b0qb98 #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031883.7378988,
+    "logical_clock": 359,
+    "channel": "canal-python-bot-1-9251",
+    "message": "cgh96nv02grfj #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031883.779435,
+    "logical_clock": 361,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "matdlibk #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031884.7476742,
+    "logical_clock": 363,
+    "channel": "canal-python-bot-1-9251",
+    "message": "aaw4j8i87fw16v #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031884.7891262,
+    "logical_clock": 365,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "4fp5qdlbn #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031885.757643,
+    "logical_clock": 367,
+    "channel": "canal-python-bot-1-9251",
+    "message": "7tl7scxs #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031885.7977278,
+    "logical_clock": 369,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "rat4lwmfb68txsqy #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031886.809474,
+    "logical_clock": 372,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "gbpahe6fzvm #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031887.8197806,
+    "logical_clock": 376,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "e5vwbpdna7s790 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031888.7695572,
+    "logical_clock": 380,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "wyxqr2hrbqe8fg #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031888.8692195,
+    "logical_clock": 382,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "9t3ukk2t58q6z #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031889.7816515,
+    "logical_clock": 384,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "omi2x227v9m #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031890.792207,
+    "logical_clock": 387,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "9efm0upzw #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031891.8019636,
+    "logical_clock": 390,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "dizyyfyz8b9gm55 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031891.8804073,
+    "logical_clock": 394,
+    "channel": "canal-python-bot-1-9251",
+    "message": "675m7krg5sigz #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031892.8107073,
+    "logical_clock": 396,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "g5nkconmxg5169 #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031892.891204,
+    "logical_clock": 400,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8i1esa5p #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031893.8196542,
+    "logical_clock": 402,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "g1avh1qy4ni081yo #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031893.9009006,
+    "logical_clock": 404,
+    "channel": "canal-python-bot-1-9251",
+    "message": "0jaestcf #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031894.8340366,
+    "logical_clock": 406,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "golpwyp3jg #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031894.9129314,
+    "logical_clock": 408,
+    "channel": "canal-python-bot-1-9251",
+    "message": "0flf5aewxxzl4n7 #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031895.8456788,
+    "logical_clock": 410,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "u5dnwrpxi3noi9x #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031895.9243615,
+    "logical_clock": 412,
+    "channel": "canal-python-bot-1-9251",
+    "message": "gne2mm8v970 #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031896.8561804,
+    "logical_clock": 414,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "kl110gt2b #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031896.9342418,
+    "logical_clock": 416,
+    "channel": "canal-python-bot-1-9251",
+    "message": "xrzucyajv4dgw #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031897.8667946,
+    "logical_clock": 418,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "fargxdll18d #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031897.9472547,
+    "logical_clock": 422,
+    "channel": "canal-python-bot-1-9251",
+    "message": "6rfimk7cj #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031898.9576595,
+    "logical_clock": 425,
+    "channel": "canal-python-bot-1-9251",
+    "message": "n8c0qipxc0uv #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031899.96848,
+    "logical_clock": 428,
+    "channel": "canal-python-bot-1-9251",
+    "message": "rbnrkfka #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031900.877255,
+    "logical_clock": 432,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ubudck1yu19s6fot #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031900.9788775,
+    "logical_clock": 434,
+    "channel": "canal-python-bot-1-9251",
+    "message": "3dsqa4iq2r #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031901.8888245,
+    "logical_clock": 436,
+    "channel": "canal-python-bot-1-9251",
+    "message": "an9uule4ez6os66u #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031902.8992496,
+    "logical_clock": 439,
+    "channel": "canal-python-bot-1-9251",
+    "message": "6dufp21obibd5wnc #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031903.9092476,
+    "logical_clock": 442,
+    "channel": "canal-python-bot-1-9251",
+    "message": "bztamvmw8xpzbv4 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031903.990636,
+    "logical_clock": 447,
+    "channel": "canal-python-bot-1-9251",
+    "message": "osrv2bvvo8ka #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031904.9188974,
+    "logical_clock": 449,
+    "channel": "canal-python-bot-1-9251",
+    "message": "22nsi1hossd #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031905.0021858,
+    "logical_clock": 451,
+    "channel": "canal-python-bot-1-9251",
+    "message": "qrr74widge9y #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031905.9289422,
+    "logical_clock": 453,
+    "channel": "canal-python-bot-1-9251",
+    "message": "001it4qj5ql #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031906.0226607,
+    "logical_clock": 455,
+    "channel": "canal-python-bot-1-9251",
+    "message": "agsj03apek34m #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031906.9383175,
+    "logical_clock": 457,
+    "channel": "canal-python-bot-1-9251",
+    "message": "wdizpywwtfqxrnu #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031907.0327482,
+    "logical_clock": 459,
+    "channel": "canal-python-bot-1-9251",
+    "message": "n3j4s1847k5 #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031907.9479196,
+    "logical_clock": 461,
+    "channel": "canal-python-bot-1-9251",
+    "message": "zi1ugconaj6ob #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031908.0428813,
+    "logical_clock": 463,
+    "channel": "canal-python-bot-1-9251",
+    "message": "dofom0e6xdxv #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031908.9578366,
+    "logical_clock": 465,
+    "channel": "canal-python-bot-1-9251",
+    "message": "dl0m18gozilski #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031909.053194,
+    "logical_clock": 469,
+    "channel": "canal-python-bot-1-9251",
+    "message": "xf7bjx6ge934ga #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031909.9689097,
+    "logical_clock": 471,
+    "channel": "canal-python-bot-1-9251",
+    "message": "e9m1aozwvw8kyz #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031910.064559,
+    "logical_clock": 473,
+    "channel": "canal-python-bot-1-9251",
+    "message": "v0a5rgpqi0rk8 #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031911.0751472,
+    "logical_clock": 476,
+    "channel": "canal-python-bot-1-9251",
+    "message": "d0ea93bds #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031912.0846841,
+    "logical_clock": 479,
+    "channel": "canal-python-bot-1-9251",
+    "message": "sz51wqlkh8 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031912.9799962,
+    "logical_clock": 483,
+    "channel": "canal-python-bot-1-9251",
+    "message": "zdqcctbn #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031913.10635,
+    "logical_clock": 485,
+    "channel": "canal-python-bot-1-9251",
+    "message": "hacitatormjsyf #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031913.9915378,
+    "logical_clock": 487,
+    "channel": "canal-python-bot-1-9251",
+    "message": "1e4yac5rnf6b #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031915.002545,
+    "logical_clock": 490,
+    "channel": "canal-python-bot-1-9251",
+    "message": "qx8ktg6n24j4 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031916.0142403,
+    "logical_clock": 494,
+    "channel": "canal-python-bot-1-9251",
+    "message": "fdnk3z70753uly3 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031916.1184475,
+    "logical_clock": 498,
+    "channel": "canal-python-bot-1-9251",
+    "message": "kzd3o2gkyk #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031917.0264235,
+    "logical_clock": 500,
+    "channel": "canal-python-bot-1-9251",
+    "message": "qdvsl6bff #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031917.1322718,
+    "logical_clock": 502,
+    "channel": "canal-python-bot-1-9251",
+    "message": "taqc91jp4b2 #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031918.0545862,
+    "logical_clock": 504,
+    "channel": "canal-python-bot-1-9251",
+    "message": "elwustm8tvys #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031918.1489747,
+    "logical_clock": 506,
+    "channel": "canal-python-bot-1-9251",
+    "message": "demxmlpfszaw2 #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031919.0672019,
+    "logical_clock": 508,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ucuy7g3zpo0yvfe #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031919.1633966,
+    "logical_clock": 510,
+    "channel": "canal-python-bot-1-9251",
+    "message": "2ol4ydeyfo0g #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031920.0771196,
+    "logical_clock": 512,
+    "channel": "canal-python-bot-1-9251",
+    "message": "so6t48jm1phv #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031920.1747308,
+    "logical_clock": 516,
+    "channel": "canal-python-bot-1-9251",
+    "message": "nstzhbh2in #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031921.0876288,
+    "logical_clock": 518,
+    "channel": "canal-python-bot-1-9251",
+    "message": "oh21j1iuzbf8ss #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031921.1854227,
+    "logical_clock": 520,
+    "channel": "canal-python-bot-1-9251",
+    "message": "pbi39a5h4 #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031922.098715,
+    "logical_clock": 522,
+    "channel": "canal-python-bot-1-9251",
+    "message": "1kf5787i21p71gcb #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031922.197056,
+    "logical_clock": 524,
+    "channel": "canal-python-bot-1-9251",
+    "message": "plwtkaz4uay #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031923.2116213,
+    "logical_clock": 527,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ybr5pxng3di8iw0u #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031924.2224884,
+    "logical_clock": 530,
+    "channel": "canal-python-bot-1-9251",
+    "message": "c0c303ducaowfgo #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031925.121009,
+    "logical_clock": 534,
+    "channel": "canal-python-bot-1-9251",
+    "message": "w93yge1ssg184 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031925.2375643,
+    "logical_clock": 536,
+    "channel": "canal-python-bot-1-9251",
+    "message": "wcx8p4f5 #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031926.1321137,
+    "logical_clock": 540,
+    "channel": "canal-python-bot-1-9251",
+    "message": "z8bf62tpdn #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031927.1416368,
+    "logical_clock": 543,
+    "channel": "canal-python-bot-1-9251",
+    "message": "arc570rwskssyq2 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031928.1513557,
+    "logical_clock": 546,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ea4r554i6v1 #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031928.24886,
+    "logical_clock": 550,
+    "channel": "canal-python-bot-1-9251",
+    "message": "cf7ikmp7 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031929.1618783,
+    "logical_clock": 552,
+    "channel": "canal-python-bot-1-9251",
+    "message": "1wtloosimvm #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031929.259287,
+    "logical_clock": 554,
+    "channel": "canal-python-bot-1-9251",
+    "message": "3yidil44d0w7gu #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031930.1724772,
+    "logical_clock": 556,
+    "channel": "canal-python-bot-1-9251",
+    "message": "f6f7d6k4oofvdv #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031930.2703567,
+    "logical_clock": 558,
+    "channel": "canal-python-bot-1-9251",
+    "message": "7nlzwz8bi1b8p0 #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031931.1840367,
+    "logical_clock": 560,
+    "channel": "canal-python-bot-1-9251",
+    "message": "plwu4oks4 #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031931.2813444,
+    "logical_clock": 564,
+    "channel": "canal-python-bot-1-9251",
+    "message": "7pmmmkml #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031932.1940665,
+    "logical_clock": 566,
+    "channel": "canal-python-bot-1-9251",
+    "message": "f5lgo2ynyu #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031932.2922733,
+    "logical_clock": 568,
+    "channel": "canal-python-bot-1-9251",
+    "message": "sh81j47yu2l1uf #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031933.205136,
+    "logical_clock": 570,
+    "channel": "canal-python-bot-1-9251",
+    "message": "a9uisy6amj1xjd1s #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031933.303022,
+    "logical_clock": 572,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8xt4qkqsi0rofb #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031934.2145994,
+    "logical_clock": 574,
+    "channel": "canal-python-bot-1-9251",
+    "message": "djoitcj0pyou7g #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031934.3139687,
+    "logical_clock": 576,
+    "channel": "canal-python-bot-1-9251",
+    "message": "b9xxjwbuwo #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031935.3232574,
+    "logical_clock": 579,
+    "channel": "canal-python-bot-1-9251",
+    "message": "im5innp3eanycer6 #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031936.334381,
+    "logical_clock": 582,
+    "channel": "canal-python-bot-1-9251",
+    "message": "4w1etpt1mp8pddn2 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031937.2255888,
+    "logical_clock": 589,
+    "channel": "canal-python-bot-1-9251",
+    "message": "wmq77xrk #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031937.3453767,
+    "logical_clock": 591,
+    "channel": "canal-python-bot-1-9251",
+    "message": "xc97gbsisviz #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031938.2349398,
+    "logical_clock": 593,
+    "channel": "canal-python-bot-1-9251",
+    "message": "39f6pboh #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031939.2441335,
+    "logical_clock": 596,
+    "channel": "canal-python-bot-1-9251",
+    "message": "jwq1zwomq3rq #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031940.254653,
+    "logical_clock": 599,
+    "channel": "canal-python-bot-1-9251",
+    "message": "muokl6j697z #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031940.3574164,
+    "logical_clock": 603,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "p32b11opbrb #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031941.2659974,
+    "logical_clock": 605,
+    "channel": "canal-python-bot-1-9251",
+    "message": "prek0muuln6edbn #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031941.3689613,
+    "logical_clock": 607,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "z5zlz0yf68rxkj #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031942.2766848,
+    "logical_clock": 609,
+    "channel": "canal-python-bot-1-9251",
+    "message": "s8hdh4ubvzrtmrr5 #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031942.3811643,
+    "logical_clock": 613,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "e4876d814p #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031943.287341,
+    "logical_clock": 615,
+    "channel": "canal-python-bot-1-9251",
+    "message": "l99pkngfwt6rm #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031943.392623,
+    "logical_clock": 617,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "qqdc7ny1xwk #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031944.306468,
+    "logical_clock": 619,
+    "channel": "canal-python-bot-1-9251",
+    "message": "9rgrd0h753zi #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031944.403342,
+    "logical_clock": 621,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "zouig4qld #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031945.317107,
+    "logical_clock": 623,
+    "channel": "canal-python-bot-1-9251",
+    "message": "bzwfoogtm #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031945.4140792,
+    "logical_clock": 625,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "yoq94jg5aazq #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031946.328336,
+    "logical_clock": 627,
+    "channel": "canal-python-bot-1-9251",
+    "message": "r6nanxha40ft #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031946.4231005,
+    "logical_clock": 629,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "ldtr5bsy7 #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031947.4345787,
+    "logical_clock": 632,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "e1kay859okqsfxg #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031948.44576,
+    "logical_clock": 636,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "q4yn2wl8sn9hd0u #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031949.3392987,
+    "logical_clock": 640,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "7vhrwfmtcze8 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031949.457015,
+    "logical_clock": 642,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "2v0a6kdcni9ww #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031950.3505301,
+    "logical_clock": 644,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "snj1u34ix #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031951.3648257,
+    "logical_clock": 647,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "feewmhdxyjg4 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031952.376054,
+    "logical_clock": 650,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "qtrccw0e2o #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031952.471448,
+    "logical_clock": 654,
+    "channel": "canal-python-bot-1-9251",
+    "message": "g6fpi3crlg49 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031953.3875637,
+    "logical_clock": 656,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "a45x47bb #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031953.5002275,
+    "logical_clock": 660,
+    "channel": "canal-python-bot-1-9251",
+    "message": "bmg834oi8q #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031954.3978722,
+    "logical_clock": 662,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "pgf2nbcq79ce9hxc #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031954.5130286,
+    "logical_clock": 664,
+    "channel": "canal-python-bot-1-9251",
+    "message": "sk3axguq2l #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031955.4102995,
+    "logical_clock": 666,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "186owl6fvs8cz #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031955.524893,
+    "logical_clock": 668,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ctzsu347s5a #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031956.4200783,
+    "logical_clock": 670,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "k07sf8hcvusn8zd #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031956.5366156,
+    "logical_clock": 672,
+    "channel": "canal-python-bot-1-9251",
+    "message": "bjtfpwk9n #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031957.4305694,
+    "logical_clock": 674,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "idwgtjz6lx5am0w4 #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031957.5495696,
+    "logical_clock": 676,
+    "channel": "canal-python-bot-1-9251",
+    "message": "k9p503qw4 #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031958.441869,
+    "logical_clock": 678,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "xoab1zg7kmisfqsm #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031958.5625055,
+    "logical_clock": 682,
+    "channel": "canal-python-bot-1-9251",
+    "message": "waonjn4cb #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031959.5752492,
+    "logical_clock": 685,
+    "channel": "canal-python-bot-1-9251",
+    "message": "20hlqe3mqdzhy #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031960.5868149,
+    "logical_clock": 688,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5wuuxybtkrky0lh3 #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031961.4528291,
+    "logical_clock": 692,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8wx4uky6 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031961.5978928,
+    "logical_clock": 694,
+    "channel": "canal-python-bot-1-9251",
+    "message": "v7ntl0nh6eflb #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031962.4634423,
+    "logical_clock": 696,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5gfy2r7pv6c0vwm #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031963.474444,
+    "logical_clock": 699,
+    "channel": "canal-python-bot-1-9251",
+    "message": "72misk0wzbpgjy #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031964.4882202,
+    "logical_clock": 702,
+    "channel": "canal-python-bot-1-9251",
+    "message": "0ycy12omjvrd #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031964.610864,
+    "logical_clock": 707,
+    "channel": "canal-python-bot-1-9251",
+    "message": "os33qppvm7pkopr0 #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031965.504463,
+    "logical_clock": 709,
+    "channel": "canal-python-bot-1-9251",
+    "message": "tb3nm6ckc #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031965.627137,
+    "logical_clock": 711,
+    "channel": "canal-python-bot-1-9251",
+    "message": "a1nk4jgc3sig9mdo #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031966.526975,
+    "logical_clock": 713,
+    "channel": "canal-python-bot-1-9251",
+    "message": "n8v4eva25 #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031966.6437984,
+    "logical_clock": 715,
+    "channel": "canal-python-bot-1-9251",
+    "message": "7nh1ab4it1nqx #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031967.543502,
+    "logical_clock": 717,
+    "channel": "canal-python-bot-1-9251",
+    "message": "uxnc27gn #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031967.6603272,
+    "logical_clock": 719,
+    "channel": "canal-python-bot-1-9251",
+    "message": "81w38ig712 #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031968.5689065,
+    "logical_clock": 721,
+    "channel": "canal-python-bot-1-9251",
+    "message": "q0dottzkf76 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031968.71755,
+    "logical_clock": 723,
+    "channel": "canal-python-bot-1-9251",
+    "message": "rdukiuny5a24n0sq #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031969.5807886,
+    "logical_clock": 725,
+    "channel": "canal-python-bot-1-9251",
+    "message": "rl5vy0lo1tqovmw #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031969.7311435,
+    "logical_clock": 729,
+    "channel": "canal-python-bot-1-9251",
+    "message": "m53v609kcey1l #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031970.5948515,
+    "logical_clock": 731,
+    "channel": "canal-python-bot-1-9251",
+    "message": "slqqrhjvmdz #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031970.7490196,
+    "logical_clock": 733,
+    "channel": "canal-python-bot-1-9251",
+    "message": "etvgcjlmshez #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031971.801441,
+    "logical_clock": 736,
+    "channel": "canal-python-bot-1-9251",
+    "message": "oa2auoxnh #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031972.823932,
+    "logical_clock": 739,
+    "channel": "canal-python-bot-1-9251",
+    "message": "z2xs1qirt3we0n8j #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031973.611465,
+    "logical_clock": 743,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "l527o2h98ijpw4j #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031973.8383691,
+    "logical_clock": 745,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ekwpwu0uf1hfm #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031974.6252987,
+    "logical_clock": 747,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "exxhuj2t7dl1 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031975.6397336,
+    "logical_clock": 750,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "hde4lmf7 #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031976.656775,
+    "logical_clock": 754,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "rnstrwiqv3i #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031976.8525486,
+    "logical_clock": 758,
+    "channel": "canal-python-bot-1-9251",
+    "message": "jo35jwae #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031977.6716812,
+    "logical_clock": 760,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "qq5255kjp13p5 #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031978.0745049,
+    "logical_clock": 762,
+    "channel": "canal-python-bot-1-9251",
+    "message": "th6xp9uqq1kf4 #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031978.685275,
+    "logical_clock": 764,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "3128c7p5 #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031979.0912411,
+    "logical_clock": 766,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8mowlrf8kakd6n #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031979.6978877,
+    "logical_clock": 768,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "6rs26sy2 #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031980.108206,
+    "logical_clock": 770,
+    "channel": "canal-python-bot-1-9251",
+    "message": "lh2l7cxp2vnp1j2z #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031980.714361,
+    "logical_clock": 772,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "rdxhjqs3eh6rs6 #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031981.1356695,
+    "logical_clock": 776,
+    "channel": "canal-python-bot-1-9251",
+    "message": "nt5jhlrw1ugzvi #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031981.7287238,
+    "logical_clock": 778,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "qu4vrbkz65q98pds #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031982.152867,
+    "logical_clock": 780,
+    "channel": "canal-python-bot-1-9251",
+    "message": "z56vmylv2aywzj2 #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031982.7439597,
+    "logical_clock": 782,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "umblmr8cc7h #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031983.1990871,
+    "logical_clock": 784,
+    "channel": "canal-python-bot-1-9251",
+    "message": "q9blh8gh #7",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031984.215161,
+    "logical_clock": 787,
+    "channel": "canal-python-bot-1-9251",
+    "message": "y6haws1gpj7 #8",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031985.2889693,
+    "logical_clock": 790,
+    "channel": "canal-python-bot-1-9251",
+    "message": "n4sfistn3v #9",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031985.758769,
+    "logical_clock": 794,
+    "channel": "canal-python-bot-1-9251",
+    "message": "2elsagv7yj79 #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031986.3049016,
+    "logical_clock": 796,
+    "channel": "canal-python-bot-1-9251",
+    "message": "76g2uq9yqb689 #10",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031986.776231,
+    "logical_clock": 800,
+    "channel": "canal-python-bot-1-9251",
+    "message": "tfkfwvzfmz5jwp4 #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031987.792779,
+    "logical_clock": 803,
+    "channel": "canal-python-bot-1-9251",
+    "message": "3zfy5k0d #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031988.8065953,
+    "logical_clock": 806,
+    "channel": "canal-python-bot-1-9251",
+    "message": "5gajj7doda #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031989.5694733,
+    "logical_clock": 810,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "hzf1yicj4f9s #1",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031989.8182325,
+    "logical_clock": 812,
+    "channel": "canal-python-bot-1-9251",
+    "message": "65lt9szq0mrd7i #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031990.581927,
+    "logical_clock": 814,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "68gqq9hr6on9 #2",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031990.8314223,
+    "logical_clock": 816,
+    "channel": "canal-python-bot-1-9251",
+    "message": "p787nayt #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031991.5947387,
+    "logical_clock": 818,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "kmz94bmepxae7 #3",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031991.8440213,
+    "logical_clock": 820,
+    "channel": "canal-python-bot-1-9251",
+    "message": "8zt59fp2nkd #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031992.608651,
+    "logical_clock": 824,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "2oddljci #4",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031992.8591518,
+    "logical_clock": 826,
+    "channel": "canal-python-bot-1-9251",
+    "message": "q891n6cid #8",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031993.6215494,
+    "logical_clock": 828,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "5s0se9rg0cn0h #5",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031994.5835626,
+    "logical_clock": 830,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ft2b583yvib #9",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031994.6336284,
+    "logical_clock": 832,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "h83thon7w #6",
+    "from": "java-bot-cross-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031995.598062,
+    "logical_clock": 834,
+    "channel": "canal-python-bot-1-9251",
+    "message": "ck0wbhc1943i8j2k #10",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031998.611468,
+    "logical_clock": 839,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "kevi7amd #1",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777031999.6238866,
+    "logical_clock": 842,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "5z07e3tn #2",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777032000.636658,
+    "logical_clock": 845,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "u5k12kbkeotzt #3",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777032001.6500063,
+    "logical_clock": 849,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "g9o8neq48tj3mozx #4",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777032002.6629844,
+    "logical_clock": 852,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "saeqddrp72mnn7yu #5",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777032003.6752403,
+    "logical_clock": 855,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "0p5m7ghb0j #6",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  },
+  {
+    "type": "CHANNEL_MSG",
+    "timestamp": 1777032004.6875596,
+    "logical_clock": 858,
+    "channel": "canal-java-bot-cross-1-9396",
+    "message": "sx7s27nbcz6tuw #7",
+    "from": "python-bot-1",
+    "server": "python-server-1"
+  }
+]

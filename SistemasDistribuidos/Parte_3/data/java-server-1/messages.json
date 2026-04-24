@@ -1,0 +1,2577 @@
+[ {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318040440173E9,
+  "logical_clock" : 24,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "a69ru24cgwb #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318050640173E9,
+  "logical_clock" : 27,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "2g6qsg2mclncsug #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318057706358E9,
+  "logical_clock" : 40,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "vitabtb9ns0dl0un #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318060926359E9,
+  "logical_clock" : 42,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "dbe3549ufi3dv #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318067806358E9,
+  "logical_clock" : 44,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "1pqaw3sqkbn426g #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031807105636E9,
+  "logical_clock" : 46,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "r0ypetr52l4ujhh #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031807788636E9,
+  "logical_clock" : 48,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "9wykgwyqy9y #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031808117636E9,
+  "logical_clock" : 50,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "7ivu0qp4pu #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318087966359E9,
+  "logical_clock" : 52,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "iec48efwz #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031809127636E9,
+  "logical_clock" : 54,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "l0urmonbak6 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318098037148E9,
+  "logical_clock" : 58,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "45moz2sccfe #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318101517148E9,
+  "logical_clock" : 60,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "fnq6te0xinvr2z6a #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318108107147E9,
+  "logical_clock" : 62,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "fece8rextu39bh #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318111627147E9,
+  "logical_clock" : 64,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ddzwm4lx1vorxt6 #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318118197148E9,
+  "logical_clock" : 66,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "661x4n8js7wq #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318121727147E9,
+  "logical_clock" : 68,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "hl1s4uqcu7m9j5k #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318131017148E9,
+  "logical_clock" : 70,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "vut1njo2e5hzh #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318131827147E9,
+  "logical_clock" : 72,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "r57i2uuv3 #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318141107147E9,
+  "logical_clock" : 74,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "u27qqrrokoh #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318151187148E9,
+  "logical_clock" : 77,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "y41oiy15gclcj #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318161965778E9,
+  "logical_clock" : 83,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ko1mod6it #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318172075777E9,
+  "logical_clock" : 86,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "yv0renyzr7n801zc #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318181275778E9,
+  "logical_clock" : 90,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "do0hjvp1s9 #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318190735776E9,
+  "logical_clock" : 92,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "wmczn6q3pgx1k #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318200755777E9,
+  "logical_clock" : 94,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "5959ibjsj1kb007t #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318200895777E9,
+  "logical_clock" : 96,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ohzemka14 #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318210855777E9,
+  "logical_clock" : 98,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "o007rysy #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318211005776E9,
+  "logical_clock" : 100,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "yr5030ndkc6yhc #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318220938904E9,
+  "logical_clock" : 104,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "udr28pohx1cod #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318221118906E9,
+  "logical_clock" : 106,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "eqpfavjauspb #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318231058905E9,
+  "logical_clock" : 108,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "10zvky8kq39 #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318231248906E9,
+  "logical_clock" : 110,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "o7ezzilf1rw9 #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318241188905E9,
+  "logical_clock" : 112,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "4zn103de #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318241428905E9,
+  "logical_clock" : 114,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "qvqjuun7i61s8r #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318251308906E9,
+  "logical_clock" : 116,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "z8higcjdq0ptdpu #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318251548905E9,
+  "logical_clock" : 118,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ciadszkcgz0baz #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318261368904E9,
+  "logical_clock" : 120,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "6d1o6wv3 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318261648905E9,
+  "logical_clock" : 122,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "h5wpb61w52d26mn #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318271483173E9,
+  "logical_clock" : 126,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "u3yb8bkn7pnl #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318281573174E9,
+  "logical_clock" : 129,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "z68q6283y #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318291793172E9,
+  "logical_clock" : 133,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ku7cr1z83 #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318301903174E9,
+  "logical_clock" : 136,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "u6adibftz1 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318311673174E9,
+  "logical_clock" : 140,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "z9cjtvazp6vu #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318312003174E9,
+  "logical_clock" : 142,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "3x9s4fpdu0x #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318321773174E9,
+  "logical_clock" : 144,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "p69f1s37h #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318322113173E9,
+  "logical_clock" : 146,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "frqsxqtaa7q #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031833187232E9,
+  "logical_clock" : 150,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pi8p4rchxdb3dt #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031833221232E9,
+  "logical_clock" : 152,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "qosr69cl24j6 #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031834197232E9,
+  "logical_clock" : 154,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "gj84oxvr7cpvjs5 #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031834231232E9,
+  "logical_clock" : 156,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "dqebs5wllc806 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031835206232E9,
+  "logical_clock" : 158,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "t9o5dmzn8shv #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031835243232E9,
+  "logical_clock" : 160,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "mw09tfce4zs9 #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031836216232E9,
+  "logical_clock" : 162,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "mm3yn3lc #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031836254232E9,
+  "logical_clock" : 164,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "mn26019ltsiki5 #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031837225232E9,
+  "logical_clock" : 166,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "xu6up23tgfm6um #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031837263232E9,
+  "logical_clock" : 168,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "thz3n9vp0kl #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318382344525E9,
+  "logical_clock" : 172,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ea50tknjv3v35 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318382754526E9,
+  "logical_clock" : 174,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "jc2amp36hudqp4 #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318392434525E9,
+  "logical_clock" : 176,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "8h2wqlygpt4 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318402554526E9,
+  "logical_clock" : 179,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "5i64wnv06b6 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318412884526E9,
+  "logical_clock" : 183,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "84jjmw5atc2x #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318422984526E9,
+  "logical_clock" : 186,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "3jw9hxoj53knorhu #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318432654526E9,
+  "logical_clock" : 190,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "udbyw96lq07tewc #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318433094525E9,
+  "logical_clock" : 192,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "z204rm4qfw4as #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184427654E9,
+  "logical_clock" : 196,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "hetm6djalopnb #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184431954E9,
+  "logical_clock" : 198,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "3ic84ts8ct50jjuj #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184528454E9,
+  "logical_clock" : 200,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pc2qv5zraus #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184532854E9,
+  "logical_clock" : 202,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "r6jwadjd1qm8r5c #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184629254E9,
+  "logical_clock" : 204,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "2kf0gx3uh8oq #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184633954E9,
+  "logical_clock" : 206,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "4ectazkaqddvbm24 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318473015401E9,
+  "logical_clock" : 208,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1076zu7k #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184735054E9,
+  "logical_clock" : 210,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "g3n1ivdz #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184830954E9,
+  "logical_clock" : 212,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "njxfg19ll2gyn #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703184845754E9,
+  "logical_clock" : 214,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "7kvpwoxy5k #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318494574995E9,
+  "logical_clock" : 218,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "8q2vvw9e1 #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318494684994E9,
+  "logical_clock" : 220,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "qdkfcnmjg7 #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318504674995E9,
+  "logical_clock" : 222,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "w4a22g915zuskab #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318504794996E9,
+  "logical_clock" : 224,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "i6yfbpfnopw #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318514744995E9,
+  "logical_clock" : 226,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "z3a5we3afa44 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318524814994E9,
+  "logical_clock" : 229,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "q6qvzcelo #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318534934995E9,
+  "logical_clock" : 233,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "xs8y3jlplons67 #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318545054996E9,
+  "logical_clock" : 236,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "dmndgwrua6pv2ytg #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318554905195E9,
+  "logical_clock" : 241,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ksxqk9v4f8i63 #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318555185194E9,
+  "logical_clock" : 243,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "b8zdiw4x5 #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318565005195E9,
+  "logical_clock" : 245,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "o0ymz2lv0pnx42 #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318565295196E9,
+  "logical_clock" : 247,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ed7l4z28xjdf1r5 #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318575095196E9,
+  "logical_clock" : 249,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "0gtrx8c6 #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318575415194E9,
+  "logical_clock" : 251,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "e34t02tc99zv98cs #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318585175195E9,
+  "logical_clock" : 253,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "rckr8cfdg #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318585515196E9,
+  "logical_clock" : 255,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "z2sjeu3uf #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318595275195E9,
+  "logical_clock" : 257,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "p0lcifso0 #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318595615196E9,
+  "logical_clock" : 259,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "x82ezvne #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318605432775E9,
+  "logical_clock" : 263,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "8jlfcghx #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318605712776E9,
+  "logical_clock" : 265,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "0dubnj9mf3sx #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318615522776E9,
+  "logical_clock" : 267,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "brxel5g8hk3fzoo7 #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318615862775E9,
+  "logical_clock" : 269,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "0k5998xhtbq4 #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318625612776E9,
+  "logical_clock" : 271,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "d6996miq600obsk0 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318625962775E9,
+  "logical_clock" : 273,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "drikcj57afwl #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318635692775E9,
+  "logical_clock" : 275,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "auzswmjgk1bvni #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318645852776E9,
+  "logical_clock" : 278,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "l4gba1lmabk4o #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318656102774E9,
+  "logical_clock" : 282,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "4e889r9jbu7 #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318666265879E9,
+  "logical_clock" : 286,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "mcbhz4rp8ws #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031867598588E9,
+  "logical_clock" : 290,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "s0lfmnzfzcn #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031867637588E9,
+  "logical_clock" : 292,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "jbtz9yvpyt4se #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031868608588E9,
+  "logical_clock" : 294,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "yd941skziic9 #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031868650588E9,
+  "logical_clock" : 296,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "kj7bci0c3vewq7la #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031869619588E9,
+  "logical_clock" : 298,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "m04cwcguxtsmy #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031869662588E9,
+  "logical_clock" : 300,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "kqmfjdqi6 #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031870629588E9,
+  "logical_clock" : 302,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "gk8dvrq9by #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031870673588E9,
+  "logical_clock" : 304,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "r44nousqp1xjp #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318716394773E9,
+  "logical_clock" : 308,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "m2ofp0q8pc7tpphz #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318716854773E9,
+  "logical_clock" : 310,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "n46osbax #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318726484773E9,
+  "logical_clock" : 312,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "4ryqtsmwoszmsa #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318726994772E9,
+  "logical_clock" : 314,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "uogn8i3nla #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318736574774E9,
+  "logical_clock" : 316,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "6jfeairmggs76o #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318737094774E9,
+  "logical_clock" : 318,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "mk7u7j0k7w #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318746684773E9,
+  "logical_clock" : 320,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "g7pvbki08jz3ds5 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318747234774E9,
+  "logical_clock" : 322,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "uy3qorgt #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318756784773E9,
+  "logical_clock" : 324,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "lvw4c2wbl94isaz #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318766884773E9,
+  "logical_clock" : 327,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "qxz4mqyuunq8k #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318777371728E9,
+  "logical_clock" : 333,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "nh94rwm5xgx5uee #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031878749173E9,
+  "logical_clock" : 336,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "8vnaeg5v2jeyku #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318796981728E9,
+  "logical_clock" : 340,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "g3h4h3ko #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318797601728E9,
+  "logical_clock" : 342,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "j985c9ee7n #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318807081728E9,
+  "logical_clock" : 344,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "zzui6ewa #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318807711728E9,
+  "logical_clock" : 346,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "eccl4tck #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318817171729E9,
+  "logical_clock" : 348,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "yutcfova0k #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318817811728E9,
+  "logical_clock" : 350,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "g1dkjsnqwip #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318827271667E9,
+  "logical_clock" : 354,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "gau22gck9d #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318827931666E9,
+  "logical_clock" : 356,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "jsnkkrwstjj29r5 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318837361667E9,
+  "logical_clock" : 358,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "zcp89v8sh91j3fry #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318838411667E9,
+  "logical_clock" : 360,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "5bl606wmanwxhi #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318847451665E9,
+  "logical_clock" : 362,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "lbentpyk1gwqhz5 #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318848511667E9,
+  "logical_clock" : 364,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "erj0i8s10p5s3nq #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318857561667E9,
+  "logical_clock" : 366,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "lyupddgxr #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318858611667E9,
+  "logical_clock" : 368,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ragntt8jcvp2 #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318867671666E9,
+  "logical_clock" : 370,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "2tz1ime6 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318868711667E9,
+  "logical_clock" : 372,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "gdmuus7nk9k58p2 #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318877749262E9,
+  "logical_clock" : 377,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "vx7gx2tiexrodo #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318887849262E9,
+  "logical_clock" : 380,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "uwyd31kia0876 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318898839262E9,
+  "logical_clock" : 384,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "li9kwuyl #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318908949263E9,
+  "logical_clock" : 387,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "sqevvgnmcb9 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318917959263E9,
+  "logical_clock" : 391,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "j1o7treopa6f5 #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318919109263E9,
+  "logical_clock" : 393,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "y7os4gw32 #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318928029263E9,
+  "logical_clock" : 395,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ttdyeq6z4zkdbp4r #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318929229262E9,
+  "logical_clock" : 397,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ednaw4pvvt #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318938104377E9,
+  "logical_clock" : 401,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ssw8i0ylkxvuu #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318939364378E9,
+  "logical_clock" : 403,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "v8u5thqx4vbvfx #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318948214378E9,
+  "logical_clock" : 405,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "9toj609c0rv #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318949484377E9,
+  "logical_clock" : 407,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "qp5y77iurt2eli2 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318958304377E9,
+  "logical_clock" : 409,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "vjd0j7vyfyxavjz #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318959614377E9,
+  "logical_clock" : 411,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "i4xghcak #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318968394377E9,
+  "logical_clock" : 413,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "7gfuchpi12 #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318969754376E9,
+  "logical_clock" : 415,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "i5ukq1uknjws #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318978484378E9,
+  "logical_clock" : 417,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "5zt66ut5s #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318979884377E9,
+  "logical_clock" : 419,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "4axm5bqiw #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318988586578E9,
+  "logical_clock" : 423,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "wy0jr9wwyud0641 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318989986577E9,
+  "logical_clock" : 425,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "rlo6rxewc1 #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770318998696578E9,
+  "logical_clock" : 427,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "bwyix8e5 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319008786578E9,
+  "logical_clock" : 430,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1btxiz26bpedk #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319020096579E9,
+  "logical_clock" : 434,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "v0dxxnkr8jrjqj #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319030216577E9,
+  "logical_clock" : 437,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "3sacp2l97fx5vb #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319038896577E9,
+  "logical_clock" : 441,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "jrbvjwwbeq8bkr #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319040306578E9,
+  "logical_clock" : 443,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "74chmeth7 #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319048975065E9,
+  "logical_clock" : 448,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "wwq7gsxs8vztx4o #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319050395064E9,
+  "logical_clock" : 450,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "85r1sij6jhyr1ph #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319059075065E9,
+  "logical_clock" : 452,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "r2ai8ou3cbpd #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319060515065E9,
+  "logical_clock" : 454,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "8izctonpth #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319069155064E9,
+  "logical_clock" : 456,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "l0o6f15teoxp #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319070605063E9,
+  "logical_clock" : 458,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "3x0is0rgbakv #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319079245064E9,
+  "logical_clock" : 460,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "7w8t3qv5 #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319080695064E9,
+  "logical_clock" : 462,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "acuzq083basg #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319089325063E9,
+  "logical_clock" : 464,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "latlj8rrayiwza0 #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319090775063E9,
+  "logical_clock" : 466,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "8vk8cezgtx1btat #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031909941883E9,
+  "logical_clock" : 470,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "mlbk6sjhv7o7ec2z #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031910087883E9,
+  "logical_clock" : 472,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ks5vo4tws59k #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319109508832E9,
+  "logical_clock" : 474,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "g9es73bqgobi #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031911096883E9,
+  "logical_clock" : 476,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "oize3oi7z #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031911958883E9,
+  "logical_clock" : 478,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "9ym53pgfyp #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319129698832E9,
+  "logical_clock" : 481,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "mlawbej62o #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031914106883E9,
+  "logical_clock" : 485,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "79s3btwbffcw #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031915115883E9,
+  "logical_clock" : 488,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "gc3mlib3faj0ql3 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319159784799E9,
+  "logical_clock" : 495,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "8ogdkk4qd770ntlb #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191612948E9,
+  "logical_clock" : 497,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "nm4gupeeez #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191698648E9,
+  "logical_clock" : 499,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "2hvpdyp62t8prn #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191714148E9,
+  "logical_clock" : 501,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "lrr55mw8 #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191801348E9,
+  "logical_clock" : 503,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "bwvg24figzp #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191816448E9,
+  "logical_clock" : 505,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "bjo2h1dacqfpwp5 #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703191902348E9,
+  "logical_clock" : 507,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "9kycos5oajzt155x #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319191794798E9,
+  "logical_clock" : 509,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "zcplfy91p4 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703192003248E9,
+  "logical_clock" : 511,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ljgvu7i848gj #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.77703192019048E9,
+  "logical_clock" : 513,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "k66qvg9meeiix #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319210415409E9,
+  "logical_clock" : 517,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "c5fco6dptw #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031921201541E9,
+  "logical_clock" : 519,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "c1pojld8 #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031922051541E9,
+  "logical_clock" : 521,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ke29utybknmfg #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319222125409E9,
+  "logical_clock" : 523,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "cglydltdvd #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319230745409E9,
+  "logical_clock" : 525,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "1zpfgpq8c0enuso #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031923227541E9,
+  "logical_clock" : 527,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "5hdkqaoj #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031924083541E9,
+  "logical_clock" : 529,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "mz8sh31em8ra0 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031925091541E9,
+  "logical_clock" : 532,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "rloh7wwgmqc7lvs #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031926239541E9,
+  "logical_clock" : 536,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "lw4isx8giajqvor #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319272507348E9,
+  "logical_clock" : 541,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ulgv84eab5n0 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319281027348E9,
+  "logical_clock" : 545,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "zn2k1qne5qyefg #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319282597349E9,
+  "logical_clock" : 547,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "q4j6xsa61hud #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319291127348E9,
+  "logical_clock" : 549,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "nu6b6idvsuyv8t #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319292707348E9,
+  "logical_clock" : 551,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "cti8bdbwu0zis3 #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319301207347E9,
+  "logical_clock" : 553,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "p2av41ieitq9b #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319302817347E9,
+  "logical_clock" : 555,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "akwcwsnb2t #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031931127735E9,
+  "logical_clock" : 557,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "ieqomj9tll #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319312937348E9,
+  "logical_clock" : 559,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ge145wa3p2k #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319321374848E9,
+  "logical_clock" : 565,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "qfpdjbbekg21hr6 #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319323064847E9,
+  "logical_clock" : 567,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "68nywerehp1x #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319331504848E9,
+  "logical_clock" : 569,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "21h7n1fyrky #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319333174846E9,
+  "logical_clock" : 571,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1z4tmjfo #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319341594846E9,
+  "logical_clock" : 573,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "j8dkywbbm #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319343274846E9,
+  "logical_clock" : 575,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1eowf4tgiazpjod #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319351674848E9,
+  "logical_clock" : 577,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "u7hndxgv1 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319353374846E9,
+  "logical_clock" : 579,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "4f56mpwa #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319361764848E9,
+  "logical_clock" : 581,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "1c6hqjvtscc #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319371844847E9,
+  "logical_clock" : 584,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "i9eyqubsndt0k4 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319383498716E9,
+  "logical_clock" : 590,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "vyqvkf72rk52 #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319393598716E9,
+  "logical_clock" : 593,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "bou4gifclyg5 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319401948717E9,
+  "logical_clock" : 597,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1rqp4tbng0zaymo #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319403698716E9,
+  "logical_clock" : 599,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "jux1obz92ujwymtt #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319412048717E9,
+  "logical_clock" : 601,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "k7pa750lv9b88 #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319413818717E9,
+  "logical_clock" : 603,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "s08mojp4ro32jl #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319422138717E9,
+  "logical_clock" : 605,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "520uhql3h6b #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319423928716E9,
+  "logical_clock" : 607,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "n4o3qkq0j #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319432236211E9,
+  "logical_clock" : 614,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "eho66zxh9xu #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319434046211E9,
+  "logical_clock" : 616,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "lxs5kmsh4hp1sv #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319442326212E9,
+  "logical_clock" : 618,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ga2c9bqmd #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031944415621E9,
+  "logical_clock" : 620,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "kljffgq8l2 #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031945241621E9,
+  "logical_clock" : 622,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pstb7pwf29pwkcl #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319454266212E9,
+  "logical_clock" : 624,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "qvjuhleetfd #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319462496212E9,
+  "logical_clock" : 626,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "gvrz9c37hhvgn0 #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031946439621E9,
+  "logical_clock" : 628,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "c2c30zdmcaft #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031947257621E9,
+  "logical_clock" : 630,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "2hbv86ey6umh3na #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319474506211E9,
+  "logical_clock" : 632,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pfplvulxtswjkr #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319482680314E9,
+  "logical_clock" : 637,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "96ri8gwags9t6hn #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319492770314E9,
+  "logical_clock" : 640,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "jzbonulz4b7nogl9 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319504630313E9,
+  "logical_clock" : 644,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pr69jt3kxkrv #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319514750314E9,
+  "logical_clock" : 647,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "7exn6gh8jlr4e9z #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319522870314E9,
+  "logical_clock" : 651,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "wx26wwbxin #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319524860313E9,
+  "logical_clock" : 653,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "af5p3lpnp #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319532950313E9,
+  "logical_clock" : 655,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ibvb7ijd6 #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319535090313E9,
+  "logical_clock" : 657,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "c7dy43j06v9 #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319543024378E9,
+  "logical_clock" : 661,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "w1erciw5ze #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319545224378E9,
+  "logical_clock" : 663,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "te0fu6oynvdk56l1 #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319553114378E9,
+  "logical_clock" : 665,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "6am3sboww62fg0 #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319555314376E9,
+  "logical_clock" : 667,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "fqtw656xf10x #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319563194377E9,
+  "logical_clock" : 669,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "g90oznpyfd #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319565414376E9,
+  "logical_clock" : 671,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "3jplud0qz78jzd4 #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319573264377E9,
+  "logical_clock" : 673,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "cyweieohhf8ckna #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319575524378E9,
+  "logical_clock" : 675,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "o9r8qr5xs44osvdr #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319583354378E9,
+  "logical_clock" : 677,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "uc0tafo06u #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319585614378E9,
+  "logical_clock" : 679,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1y76h1lbrei #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031959343276E9,
+  "logical_clock" : 683,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "zn3sqt7e96 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031959572276E9,
+  "logical_clock" : 685,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "2m45hkffjukef #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319603512762E9,
+  "logical_clock" : 687,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "idnhjoiwg971 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031961359276E9,
+  "logical_clock" : 690,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "m5mwqyrx7kkiv2 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031962583276E9,
+  "logical_clock" : 694,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "8n6zyxu6k #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031963597276E9,
+  "logical_clock" : 697,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "86ria7wr8ysmcrs0 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319643712761E9,
+  "logical_clock" : 701,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "z5g88ay5uw #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031964609276E9,
+  "logical_clock" : 703,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "jmg3flipsro5f1 #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319654073684E9,
+  "logical_clock" : 708,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "9cv2wi7uub3pw3m #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319656223683E9,
+  "logical_clock" : 710,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "9t85mrvk #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319664173684E9,
+  "logical_clock" : 712,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "gnu8e5f3b #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319666343684E9,
+  "logical_clock" : 714,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "bggxnq1an #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319674283683E9,
+  "logical_clock" : 716,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "j0dkonqeutuksv6q #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319676473684E9,
+  "logical_clock" : 718,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "abq0u9rbthq #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319684523683E9,
+  "logical_clock" : 720,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "5wsfxtyh #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319687143683E9,
+  "logical_clock" : 722,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "1922oz2m #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319694623682E9,
+  "logical_clock" : 724,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "axmg0qtvsl #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319697243683E9,
+  "logical_clock" : 726,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "homygur0gnneyqjt #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319705308032E9,
+  "logical_clock" : 730,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "tngm382pycf3 #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319707418032E9,
+  "logical_clock" : 732,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "ukl9fpmnqx #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319715408032E9,
+  "logical_clock" : 734,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "vidkpnp1k2 #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319717688031E9,
+  "logical_clock" : 736,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "0cv6lfi4epkojn #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319725518034E9,
+  "logical_clock" : 738,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "o5qmpfyd313aiz3 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319735618033E9,
+  "logical_clock" : 741,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "djmtoz0zd #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319747808032E9,
+  "logical_clock" : 745,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "4n4paj4o5lwaf #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319757918031E9,
+  "logical_clock" : 748,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "sn740jge7f9 #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031976570481E9,
+  "logical_clock" : 755,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "oh4mzab2rdt #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031976803481E9,
+  "logical_clock" : 757,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "24ycym9smomuzwgp #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319775824811E9,
+  "logical_clock" : 759,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "dbo3l6tl2z0raf #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319780714812E9,
+  "logical_clock" : 761,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "gqkn1rnck #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319785924811E9,
+  "logical_clock" : 763,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "bfhgvl7at4wz #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031979086481E9,
+  "logical_clock" : 765,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "t2vyaoiexbjc #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031979603481E9,
+  "logical_clock" : 767,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "4g9i02u4 #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031980099481E9,
+  "logical_clock" : 769,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "91gx7k0bleg2k176 #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031980613481E9,
+  "logical_clock" : 771,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "zk3relqeca4ga #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319811314812E9,
+  "logical_clock" : 773,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "6djvz15ap62j1rxp #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319816264029E9,
+  "logical_clock" : 777,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "tr40ivjqg15p8 #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031982145403E9,
+  "logical_clock" : 779,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "bu2qzvezvf15lulv #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319826394029E9,
+  "logical_clock" : 781,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "yjepm0h9dq4gssx #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319831924028E9,
+  "logical_clock" : 783,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "o5k97g577y0 #9",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031983650403E9,
+  "logical_clock" : 785,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "wgriixcer629jy3d #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319842054029E9,
+  "logical_clock" : 787,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "pawwcs2eke #10",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031984660403E9,
+  "logical_clock" : 789,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "skqg4jp2fkhd5xk #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319856724029E9,
+  "logical_clock" : 792,
+  "channel" : "canal-java-bot-1-5366",
+  "message" : "5xwax5igt5 #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031987285403E9,
+  "logical_clock" : 796,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "y2lbanczg9h #1",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319883293743E9,
+  "logical_clock" : 803,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "lmmzhkl4ex #2",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319886923742E9,
+  "logical_clock" : 807,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "j61b3ls46l0x25 #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319893393743E9,
+  "logical_clock" : 809,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "q7rd5c4q6ztx60 #3",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319897023742E9,
+  "logical_clock" : 811,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "7qspo7kwnf3gkm #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319903493743E9,
+  "logical_clock" : 813,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "tsn739y9nlz0s #4",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319907163744E9,
+  "logical_clock" : 815,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "tr7of2mx #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319914323742E9,
+  "logical_clock" : 817,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "r4ka8kbplo #5",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319917253742E9,
+  "logical_clock" : 819,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "iy3y1u2u #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319924443743E9,
+  "logical_clock" : 821,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "tv4rnpvnria #6",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319927357118E9,
+  "logical_clock" : 825,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "befzs5kgkbs690ql #5",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031993463712E9,
+  "logical_clock" : 827,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "vwnymlnkmt9qbq6 #7",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770319937447119E9,
+  "logical_clock" : 829,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "hdqsqorp03a7ue #6",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031994578712E9,
+  "logical_clock" : 831,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "vwqcnxzis #8",
+  "from" : "java-bot-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031994753712E9,
+  "logical_clock" : 833,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "n86vny6h6ea #7",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031995763712E9,
+  "logical_clock" : 836,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "edgkf839y4wqht #8",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031996773712E9,
+  "logical_clock" : 839,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "clk8qrbrpor20fg1 #9",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777031997792712E9,
+  "logical_clock" : 842,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "264l4gqjf47o #10",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.777032000805712E9,
+  "logical_clock" : 847,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "igi4kz09f #1",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770320018169904E9,
+  "logical_clock" : 851,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "s4o3oh4myhh908 #2",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770320028279903E9,
+  "logical_clock" : 854,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "h5yc8kqqs #3",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+}, {
+  "type" : "CHANNEL_MSG",
+  "timestamp" : 1.7770320038379903E9,
+  "logical_clock" : 857,
+  "channel" : "canal-python-bot-cross-1-2380",
+  "message" : "egukm1nvzxbqvkhb #4",
+  "from" : "python-bot-cross-1",
+  "server" : "java-server-1"
+} ]

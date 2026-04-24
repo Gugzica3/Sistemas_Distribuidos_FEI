@@ -1,0 +1,9 @@
+[ {
+  "username" : "java-bot-1",
+  "timestamp" : 1.7770318039270172E9,
+  "server" : "java-server-1"
+}, {
+  "username" : "python-bot-cross-1",
+  "timestamp" : 1.7770318057400172E9,
+  "server" : "java-server-1"
+} ]
